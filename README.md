@@ -18,8 +18,6 @@ Vector SVG icons for Iranian banks, credit institutions, and PSP gateways. Zero 
 
 Core: [@iran-utils/iranian-banks-icons-core](https://www.npmjs.com/package/@iran-utils/iranian-banks-icons-core) · React: [@iran-utils/iranian-banks-react-icons](https://www.npmjs.com/package/@iran-utils/iranian-banks-react-icons) · Vue: [@iran-utils/iranian-banks-vue-icons](https://www.npmjs.com/package/@iran-utils/iranian-banks-vue-icons)
 
-**[Card to Sheba](https://github.com/houtanrocky/cardtoshaba)**
-Validate Iranian debit card numbers and convert them to IBAN / Sheba format. Luhn checksum, IIN/BIN issuer lookup, standardized formatting.
 
 ---
 
@@ -50,13 +48,6 @@ Automatically copies selected text from the VS Code integrated terminal. Works o
 
 **[Timer Gamified](https://github.com/houtanrocky/timer-gamified)**
 Focus timer with gamified win/loss metrics and streak tracking. Built in Svelte.
-
----
-
-## Engineering Projects
-
-**[Dragon Market](https://github.com/houtanrocky/dragon-market)**
-High-concurrency Go marketplace backend. PostgreSQL ACID transactions, auction bid resolution, idempotent wallet transfers, Testcontainers integration tests.
 
 ---
 
